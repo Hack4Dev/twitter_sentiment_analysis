@@ -1,7 +1,13 @@
 <p align="center"><img width=25% src="https://github.com/darabigdata/IDWBotswana/blob/master/media/daralogo.png"></p>
 
-## Introduction
- Welcome to the [DARA Big Data](https://www.darabigdata.com) project on Natural Language Processing and sentiment analysis on twitter data! From these tutorials you will learn i) How to collect data from Twitter and refine your search for Tweets ii) How to clean and prepare your Twitter data for NLP purposes iii) How to use existing libraries to perform sentiment analysis and iv) How to use machine learning to obtain sentiment predictions. 
+## Introduction  
+
+ Welcome to the [DARA Big Data](https://www.darabigdata.com) project on Natural Language Processing and sentiment analysis on twitter data! From these tutorials you will learn the following:  
+ 
+ i) How to collect data from Twitter and refine your search for Tweets  
+ ii) How to clean and prepare your Twitter data for NLP purposes  
+ iii) How to use existing libraries to perform sentiment analysis  
+ iv) How to use machine learning to obtain sentiment predictions. 
 
 The DARA Big Data hackathon is designed to help you improve your data science skills in a friendly and supportive environment. Students should have a basic working knowledge of Python (including the scipy and numpy libraries) - but you do not have to be an expert to take part and enjoy yourself!
 
