@@ -8,7 +8,7 @@ Welcome to the project on Natural Language Processing and sentiment analysis of 
 - *Tutorial 2* Perform sentiment analysis using existing toolkits
 - *Tutorial 3* Perform sentiment analysis using machine learning
 
-This project involves classical machine learing as well as transfer learning and therefore will require additional computing resources. The use of a GPU is recommended (see [Google Colab](https://colab.research.google.com/)).
+This project involves classical machine learing as well as transfer learning and therefore will suit participants who have some prior Python programming experience and a keen ineterst in machine learning. This project will also require additional computing resources. The use of a GPU is recommended (see [Google Colab](https://colab.research.google.com/)).
 
 
 ## Data
