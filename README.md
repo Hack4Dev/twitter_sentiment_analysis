@@ -16,7 +16,7 @@ This project involves classical machine learing as well as transfer learning and
 The dataset consists of 2000 tweets collected from a dataset called [Sentiment140](https://www.kaggle.com/datasets/kazanova/sentiment140), which contains 1.6 million general tweets and their corresponding sentiment labels.
 This project makes use of supervised machine learning, therefore the data have all been assigned sentiment labels, i.e. either 0 or 1 corresponding to tweets with either negative or positive sentiment, respectively. 
 
-In order for you to run the code in Tutorial 1 which allows you to collect tweets, you will need to set up a Twitter developer account and obtain certain API authorisation credentials. This can be done by followin g the instructions set out in the [Twitter API v2 setup.pdf](https://github.com/Hack4Dev/twitter_sentiment_analysis-1/blob/master/Twitter%20API%20v2%20setup.pdf) file.
+In order for you to run the code in Tutorial 1 which allows you to collect tweets, you will need to set up a Twitter developer account and obtain certain API authorisation credentials. This can be done by followin g the instructions set out in the [Twitter API v2 setup.pdf](https://github.com/Hack4Dev/twitter_sentiment_analysis/blob/master/Twitter%20API%20v2%20setup.pdf) file.
 
 ## Hackathon Task
 
@@ -38,7 +38,7 @@ All the libraries/dependencies necessary to run the tutorials are listed in the 
 
 ## Installation
 
-All the required libraries can be installed using pip and the [requirements.txt](https://github.com/Hack4Dev/twitter_sentiment_analysis-1/blob/master/requirements.txt) file in the repo:
+All the required libraries can be installed using pip and the [requirements.txt](https://github.com/Hack4Dev/twitter_sentiment_analysis/blob/master/requirements.txt) file in the repo:
 
 ```bash
 > pip install -r requirements.txt
